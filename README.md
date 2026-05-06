@@ -10,3 +10,8 @@ I hope to incorporate this concept and trend of organic development into my proj
 
 ![An image of example 1](image-1.png)
 ![An image of example 2](image-2.png)
+
+## Part 2: Coding Technique Exploration
+**Technique: Alpha Blending**
+
+This technique I intend to employ is based on the growth and iterative drawing of lines, as well as the continuous retention of trajectories. By continuously updating and redrawing slightly offset curves, this system creates a sense of temporal hierarchy, where previous states remain visible as traces. This results in a visual effect of accumulated history and flowing motion. It helps achieve the result I desire by simulating the formation of organic trajectories, allowing the lines to evolve over time.
