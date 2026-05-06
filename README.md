@@ -18,5 +18,9 @@ This technique I intend to employ is based on the growth and iterative drawing o
 
 [Link to Coding Interface](https://brianhonohan.com/sketchbook/p5js/meandering-river-02/)
 
-![An image of example 1](image-3.png)
-![An image of example 1](image-4.png)
+![An image of example 3](image-3.png)
+![An image of example 4](image-4.png)
+
+[Link to Coding Technique](https://github.com/brianhonohan/sketchbook/blob/main/p5js/meandering-river/app.js)
+
+![An image of coding technique](image-5.png)
